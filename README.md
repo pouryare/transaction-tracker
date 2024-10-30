@@ -10,19 +10,19 @@ A modern, secure, and user-friendly banking transaction management system built 
 
 <div align="center">
   <img src="screenshots/screenshot-1.png" alt="Money Transfer Interface" width="700"/>
-  <p><em>Secure Money Transfer Interface - Send money to any account with ease</em></p>
-  
-  <img src="screenshots/screenshot-2.png" alt="Login Screen" width="700"/>
   <p><em>Modern Login Interface with secure authentication and account creation options</em></p>
   
-  <img src="screenshots/screenshot-3.png" alt="Dashboard" width="700"/>
+  <img src="screenshots/screenshot-2.png" alt="Login Screen" width="700"/>
   <p><em>User Dashboard - Quick access to balance, transactions, and usage analytics</em></p>
   
-  <img src="screenshots/screenshot-4.png" alt="Friends List" width="700"/>
+  <img src="screenshots/screenshot-3.png" alt="Dashboard" width="700"/>
   <p><em>Friends Management - View and interact with your frequent contacts</em></p>
   
-  <img src="screenshots/screenshot-5.png" alt="Transaction Analytics" width="700"/>
+  <img src="screenshots/screenshot-4.png" alt="Friends List" width="700"/>
   <p><em>Transaction History Visualization - Track your balance changes over time</em></p>
+ 
+  <img src="screenshots/screenshot-5.png" alt="Transaction Analytics" width="700"/>
+  <p><em>Secure Money Transfer Interface - Send money to any account with ease</em></p>
 </div>
 
 ## ✨ Key Features
